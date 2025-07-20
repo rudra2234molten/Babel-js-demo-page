@@ -13,7 +13,7 @@ function Nav() {
         <nav className="flex items-center justify-between h-full w-[98%] m-auto pr-5 md:pl-0">
           <div className="flex items-center">
             <i class="ri-menu-line text-2xl text-white md:hidden inline-block cursor-pointer"></i>
-            <img src="/src/assets/babel-454 (5).svg" alt="" className="h-[30px] cursor-pointer" />
+            <img src="https://d33wubrfki0l68.cloudfront.net/7a197cfe44548cc1a3f581152af70a3051e11671/78df8/img/babel.svg" alt="" className="h-[30px] cursor-pointer" />
           </div>
           <div className="flex text-amber-50 gap-10 items-center">
             <ul className="md:flex items-center gap-5 hidden">
